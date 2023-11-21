@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
 </head>
-<body>
+<body> 
 <form action="" method="post" id="form">
   <label for="email">Email:</label>
 <input type="email" name="username" id="email" placeholder = "Email" ><br><br>
