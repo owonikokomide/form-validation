@@ -1,7 +1,7 @@
 <!-- Html codes -->
 <?php include('yes.php'); ?>
 <!DOCTYPE html>
-<html lang="en"> 
+<html lang="en">   
 <head> 
   <link rel="stylesheet" href="style.css">
   <meta charset="UTF-8">
