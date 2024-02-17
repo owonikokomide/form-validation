@@ -12,7 +12,7 @@
 <body> 
 <form action="" method="post" id="form">
   <label for="email">Email:</label>
-<input type="email" name="username" id="email" placeholder = "Email" ><br><br>
+<input type="email" name="username" id="email" placeholder = "Email" ><br><br> 
 <label for="text">Firstname:</label>
 <input type="text" name="text" id="text" placeholder="First name" required><br><br>
 <label for="number">Passengers:</label>
