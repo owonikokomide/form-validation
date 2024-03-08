@@ -3,7 +3,7 @@
 session_start();
 include('config.php'); 
 
-if(isset($_POST['submit'])){ 
+if(isset($_POST['submit'])){  
 $email = $_POST['username'];
 $num = $_POST['number'];
 $text = $_POST['text'];
