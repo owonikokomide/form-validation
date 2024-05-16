@@ -3,7 +3,7 @@
 var emails = document.getElementById('email');
 var texts = document.getElementById('text');
 var numbers = document.getElementById('number');
-var tels = document.getElementById('tel');
+var tels = document.getElementById('tel'); 
 var dates = document.getElementById('date');
 var submits = document.getElementById('submit');
    
