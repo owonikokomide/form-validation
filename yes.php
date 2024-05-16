@@ -5,7 +5,7 @@ include('config.php');
 
 if(isset($_POST['submit'])){  
 $email = $_POST['username'];
-$num = $_POST['number'];
+$num = $_POST['number']; 
 $text = $_POST['text'];
 $tel = $_POST['tel'];
 $date = $_POST['date'];
