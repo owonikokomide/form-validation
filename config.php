@@ -5,7 +5,7 @@ $password = "";
 $dbname = "first_project"; 
 
 $connection = mysqli_connect($servername, $username, $password, $dbname);
-if($connection){
+if($connection){ 
   //echo "connected";
 }
 else{
